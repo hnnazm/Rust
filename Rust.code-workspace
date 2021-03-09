@@ -1,0 +1,17 @@
+{
+    "folders": [
+        {
+            "path": "rust-cli"
+        },
+        {
+            "path": "rust-tcp"
+        },
+        {
+            "path": "rust-socket"
+        }
+    ],
+    "settings": {},
+    "extensions": {
+        "recommendations": []
+    }
+}
