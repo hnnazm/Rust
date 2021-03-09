@@ -1,0 +1,3 @@
+[submodule "rust-cli"]
+	path = rust-cli
+	url = https://github.com/hnnazm/rust-cli.git
